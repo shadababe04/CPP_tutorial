@@ -30,11 +30,20 @@ class Complex
         a=x;
         b=y;
     }
-    Complex(int x)
+    /**
+     * @brief Construct a new Complex object
+     * 
+     * @param x 
+     */
+    Complex(int x) //construcor overloading
     {
         a=x;
     }
-    Complex()
+    /**
+     * @brief Construct a new Complex object
+     * 
+     */
+    Complex() //constructor overloading
     {
         a=0;
         b=0;
