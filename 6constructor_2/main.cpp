@@ -58,5 +58,6 @@ class Complex
 int main()
 {
     Complex c1(3,4),c2(5),c3=6,c4;
+    Complex c4(c1);  //copy constructor
     return 0;
 }
