@@ -48,6 +48,11 @@ class Complex
         a=0;
         b=0;
     }
+    Complex (Complex &c) //copy constructor by user with refrence variable
+    {
+        a=c.a;
+        b=c.b;
+    }
 };
 
 /**
