@@ -10,7 +10,10 @@
  */
 #include<iostream>
 using namespace std;
-
+/**
+ * @brief Complex class
+ * 
+ */
 class Complex
 {
     private:
