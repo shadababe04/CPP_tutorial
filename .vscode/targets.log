@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Aug 18 15:44:51 2022
+# Make data base, printed on Fri Aug 19 15:16:42 2022
 
 # Variables
 
@@ -39,7 +39,7 @@ USERDNSDOMAIN = TYCOELECTRONICS.COM
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_3180_YWITSXDFRBZVJXTQ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7684_SMAOBPJFDFTMEXNO
 # environment
 ONEDRIVECOMMERCIAL = C:\Users\TE434973\OneDrive - TE Connectivity
 # environment
@@ -91,7 +91,7 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 3180
+VSCODE_PID = 7684
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -217,9 +217,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
 
 # Directories
 
-# . (key c:/Users/TE434973/CPP_tutorial, mtime 1660817060): 9 files, no impossibilities.
+# . (key c:/Users/TE434973/CPP_tutorial, mtime 1660827802): 10 files, no impossibilities.
 
-# 9 files, no impossibilities in 1 directories.
+# 10 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -276,13 +276,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 16 / storage = 123 B / avg = 7 B
-# current buf: size = 8174 B / used = 123 B / count = 16 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 17 / storage = 132 B / avg = 7 B
+# current buf: size = 8174 B / used = 132 B / count = 17 / avg = 7 B
 
-# strcache performance: lookups = 19 / hit rate = 15%
-# hash-table st 
-ats:
-# Load=16/8192=0%, Rehash=0, Collisions=0/19=0%
-# Finished Make data base on Thu Aug 18 15:44:51 2022
+# strcache performance: lookups = 20 / hit rate = 15%
+# hash-table stats:
+# Load=17/8192=0%, Rehash=0, Collisions=0/20=0%
+# Finished Make data base on Fri Aug 19 15:16:42 2022
 
  
